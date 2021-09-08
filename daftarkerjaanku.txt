@@ -3,3 +3,4 @@ Ini Adalah Daftar Kerjaan Yang Harus di kerja
 2. buat aplikasi hadist
 3. buat aplikasi share tempat pengajian
 4. buat aplikasi pesan kaos dari tempat
+5. buat aplikasi data bengkel
