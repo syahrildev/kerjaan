@@ -1,0 +1,5 @@
+Ini Adalah Daftar Kerjaan Yang Harus di kerja
+1. buat aplikasi alquran
+2. buat aplikasi hadist
+3. buat aplikasi share tempat pengajian
+4. buat aplikasi pesan kaos dari tempat
